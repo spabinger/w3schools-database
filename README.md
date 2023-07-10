@@ -2,7 +2,7 @@
 
 Hi!
 
-in this task you will use your database skills to answer a few questions. Please follwo the steps below. 
+in this task you will use your database skills to answer a few questions. Please follow the steps below. 
 
 1. The repository contains two .sql files:
     1. *w3schools.sql* - A script to recreate the database structure used in w3schools (https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
