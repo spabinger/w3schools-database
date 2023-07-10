@@ -28,6 +28,11 @@ in this study you will use your database skills to answer a few questions. Pleas
     4. Create a dashboard in your favorite tool (Tableau, Power BI, Excel) that shows the main KPIs of the data entries. What interesting facts can you come up with?
   
 7. Submit your answers in your preferred way
+8. Result submission/presentation
+    1. Presentation mode: Everything is allowed (surprise us and show us your innovative ideas)
+    2. Result presentation language: English
+    3. Submission: Either an Excel file, or screenshots showing dashboards in your favourite tool
+
 
 
 Resources
