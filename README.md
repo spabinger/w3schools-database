@@ -7,8 +7,12 @@ in this study you will use your database skills to answer a few questions. Pleas
 1. The repository contains two .sql files:
     1. *w3schools.sql* - A script to recreate the database structure used in w3schools (https://www.w3schools.com/sql/trysql.asp?filename=trysql_editor)
     2. *programiz.sql* - Creates the w3schools database structure in programiz (https://www.programiz.com/sql/online-compiler/)
-2. Download one of the .sql files and either use them in the w3schools Online SQL Editor (Database already exists), Programiz Online SQL Editor, or your favorite SQL database installed on your PC
-3. The sql scripts will create the following tables:
+2. You have 3 options to work on the study
+    1. Use **w3schools** - here the tables already exist and can be used
+    2. Use **programiz** - here you have to import the tables and their content using either the *w3schools.sql* or *programiz.sql* file
+    3. Use your **local, favorite** SQL tool - here you also have to import the tables and 
+4. Download one of the .sql files and either use them in the w3schools Online SQL Editor (Database already exists), Programiz Online SQL Editor, or your favorite SQL database installed on your PC
+5. The sql scripts will create the following tables:
     1. categories
     2. customers
     3. employees
@@ -18,13 +22,13 @@ in this study you will use your database skills to answer a few questions. Pleas
     7. shippers
     8. suppliers
     
-5. Once the database is ready to be used answer the following questions
+6. Once the database is ready to be used answer the following questions
     1. Which customers had the most orders?
     2. On average how many products were included into an order?
     3. Which customer ordered the most Chocolade?
     4. Create a dashboard in your favorite tool (Tableau, Power BI, Excel) that shows the main KPIs of the data entries. What interesting facts can you come up with?
   
-6. Submit your answers
+7. Submit your answers
 
 
 Resources
